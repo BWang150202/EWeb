@@ -1,0 +1,114 @@
+{
+  "id": "",
+  "name": "",
+  "font_family": "iconfont",
+  "css_prefix_text": "icon-",
+  "description": "",
+  "glyphs": [
+    {
+      "icon_id": "591955",
+      "name": "wxb定位",
+      "font_class": "wxbdingwei",
+      "unicode": "e624",
+      "unicode_decimal": 58916
+    },
+    {
+      "icon_id": "1411453",
+      "name": "白条",
+      "font_class": "baitiao",
+      "unicode": "e6ce",
+      "unicode_decimal": 59086
+    },
+    {
+      "icon_id": "4627702",
+      "name": "火车票",
+      "font_class": "huochepiao",
+      "unicode": "e60b",
+      "unicode_decimal": 58891
+    },
+    {
+      "icon_id": "6119458",
+      "name": "京东-加油卡-e01121",
+      "font_class": "jiayouka-e",
+      "unicode": "e613",
+      "unicode_decimal": 58899
+    },
+    {
+      "icon_id": "6119623",
+      "name": "京东-企业购",
+      "font_class": "qiyegou",
+      "unicode": "e61c",
+      "unicode_decimal": 58908
+    },
+    {
+      "icon_id": "8776823",
+      "name": "cart",
+      "font_class": "icon-test",
+      "unicode": "e63b",
+      "unicode_decimal": 58939
+    },
+    {
+      "icon_id": "8776842",
+      "name": "search",
+      "font_class": "icon-test1",
+      "unicode": "e63c",
+      "unicode_decimal": 58940
+    },
+    {
+      "icon_id": "10646687",
+      "name": "电影票",
+      "font_class": "dianyingpiao",
+      "unicode": "e501",
+      "unicode_decimal": 58625
+    },
+    {
+      "icon_id": "10646688",
+      "name": "话费",
+      "font_class": "huafei",
+      "unicode": "e502",
+      "unicode_decimal": 58626
+    },
+    {
+      "icon_id": "13274968",
+      "name": "酒店",
+      "font_class": "jiudian",
+      "unicode": "e626",
+      "unicode_decimal": 58918
+    },
+    {
+      "icon_id": "13871715",
+      "name": "礼品卡",
+      "font_class": "lipinka",
+      "unicode": "e620",
+      "unicode_decimal": 58912
+    },
+    {
+      "icon_id": "14456161",
+      "name": "众筹",
+      "font_class": "zhongchou",
+      "unicode": "e6ba",
+      "unicode_decimal": 59066
+    },
+    {
+      "icon_id": "15719320",
+      "name": "机票",
+      "font_class": "jipiao",
+      "unicode": "e503",
+      "unicode_decimal": 58627
+    },
+    {
+      "icon_id": "16050443",
+      "name": "理财",
+      "font_class": "licai-copy",
+      "unicode": "e512",
+      "unicode_decimal": 58642
+    },
+    {
+      "icon_id": "18251914",
+      "name": "游戏",
+      "font_class": "youxi",
+      "unicode": "ef5c",
+      "unicode_decimal": 61276
+    }
+  ]
+}
